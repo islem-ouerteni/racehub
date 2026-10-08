@@ -1,6 +1,27 @@
-# RaceHub
+# 🏃 RaceHub
 
-Site web français des courses sportives. Projet d'école.
+RaceHub is a web platform for managing running events in Tunisia.
+
+## 📚 Project
+
+Academic project developed as part of my Computer Science studies.
+
+The platform provides dedicated features for runners, organizers, and administrators, including event management and registration.
+
+## 👩‍💻 My Role
+
+**Frontend Developer**
+
+I worked on the frontend part of the project, focusing on the user interface and user experience.
+
+## ✨ Main Features
+
+- Running event browsing and registration
+- User interface for runners
+- Event management
+- Administrator dashboard
+- Responsive web interface
+
 
 **Stack :** HTML + CSS + JavaScript (vanilla) · Node.js + Express · MySQL
 
